@@ -1,7 +1,7 @@
 
 # Gymshark Clone - FRONTEND 
 
-###  To check out the whole project, also clone and run the backend part of the project on this link: [Gymshark Clone - BACKEND](https://github.com/Aniket-Pilankar/Gymshark-BACKEND-Unit-4)
+###  To check out the whole project, also clone and run the backend part of the project on this link: [Gymshark Clone - BACKEND](https://github.com/deep1296/Gymshark-BACKEND-Unit-4)
 
 A fitness wear website cloning project by Team Sharks
 
