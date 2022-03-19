@@ -5,6 +5,9 @@
 
 A fitness wear website cloning project by Team Sharks
 
+## Deployed link of projec
+- https://gymshark-team-shark.vercel.app/
+
 ## Team Members
 
 - [Aniket Pilankar](https://github.com/Aniket-Pilankar)
